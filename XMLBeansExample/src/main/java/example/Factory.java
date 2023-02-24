@@ -8,9 +8,7 @@ public class Factory {
         System.out.println("FACTORY INITIALIZED");
     }
 
-    public Factory() {
-
-    }
+    public Factory() {}
 
     public void start() {
         machine.doDetail();
